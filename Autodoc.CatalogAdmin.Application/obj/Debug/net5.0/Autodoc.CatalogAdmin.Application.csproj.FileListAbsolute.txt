@@ -1,0 +1,15 @@
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Application\bin\Debug\net5.0\Autodoc.CatalogAdmin.Application.deps.json
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Application\bin\Debug\net5.0\Autodoc.CatalogAdmin.Application.dll
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Application\bin\Debug\net5.0\ref\Autodoc.CatalogAdmin.Application.dll
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Application\bin\Debug\net5.0\Autodoc.CatalogAdmin.Application.pdb
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Application\bin\Debug\net5.0\Autodoc.CatalogAdmin.Domain.dll
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Application\bin\Debug\net5.0\Autodoc.CatalogAdmin.Domain.pdb
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Application\obj\Debug\net5.0\Autodoc.CatalogAdmin.Application.csprojAssemblyReference.cache
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Application\obj\Debug\net5.0\Autodoc.CatalogAdmin.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Application\obj\Debug\net5.0\Autodoc.CatalogAdmin.Application.AssemblyInfoInputs.cache
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Application\obj\Debug\net5.0\Autodoc.CatalogAdmin.Application.AssemblyInfo.cs
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Application\obj\Debug\net5.0\Autodoc.CatalogAdmin.Application.csproj.CoreCompileInputs.cache
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Application\obj\Debug\net5.0\Autodoc.CatalogAdmin.Application.csproj.CopyComplete
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Application\obj\Debug\net5.0\Autodoc.CatalogAdmin.Application.dll
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Application\obj\Debug\net5.0\ref\Autodoc.CatalogAdmin.Application.dll
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Application\obj\Debug\net5.0\Autodoc.CatalogAdmin.Application.pdb

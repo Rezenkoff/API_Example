@@ -1,0 +1,17 @@
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Infrastucture\bin\Release\net5.0\Autodoc.CatalogAdmin.Infrastucture.deps.json
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Infrastucture\bin\Release\net5.0\Autodoc.CatalogAdmin.Infrastucture.dll
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Infrastucture\bin\Release\net5.0\ref\Autodoc.CatalogAdmin.Infrastucture.dll
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Infrastucture\bin\Release\net5.0\Autodoc.CatalogAdmin.Infrastucture.pdb
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Infrastucture\bin\Release\net5.0\Autodoc.CatalogAdmin.Application.dll
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Infrastucture\bin\Release\net5.0\Autodoc.CatalogAdmin.Domain.dll
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Infrastucture\bin\Release\net5.0\Autodoc.CatalogAdmin.Application.pdb
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Infrastucture\bin\Release\net5.0\Autodoc.CatalogAdmin.Domain.pdb
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Infrastucture\obj\Release\net5.0\Autodoc.CatalogAdmin.Infrastucture.csprojAssemblyReference.cache
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Infrastucture\obj\Release\net5.0\Autodoc.CatalogAdmin.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Infrastucture\obj\Release\net5.0\Autodoc.CatalogAdmin.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Infrastucture\obj\Release\net5.0\Autodoc.CatalogAdmin.Infrastucture.AssemblyInfo.cs
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Infrastucture\obj\Release\net5.0\Autodoc.CatalogAdmin.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Infrastucture\obj\Release\net5.0\Autodoc.CatalogAdmin.Infrastucture.csproj.CopyComplete
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Infrastucture\obj\Release\net5.0\Autodoc.CatalogAdmin.Infrastucture.dll
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Infrastucture\obj\Release\net5.0\ref\Autodoc.CatalogAdmin.Infrastucture.dll
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Infrastucture\obj\Release\net5.0\Autodoc.CatalogAdmin.Infrastucture.pdb

@@ -1,0 +1,12 @@
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Domain\bin\Release\net5.0\Autodoc.CatalogAdmin.Domain.deps.json
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Domain\bin\Release\net5.0\Autodoc.CatalogAdmin.Domain.dll
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Domain\bin\Release\net5.0\ref\Autodoc.CatalogAdmin.Domain.dll
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Domain\bin\Release\net5.0\Autodoc.CatalogAdmin.Domain.pdb
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Domain\obj\Release\net5.0\Autodoc.CatalogAdmin.Domain.csprojAssemblyReference.cache
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Domain\obj\Release\net5.0\Autodoc.CatalogAdmin.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Domain\obj\Release\net5.0\Autodoc.CatalogAdmin.Domain.AssemblyInfoInputs.cache
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Domain\obj\Release\net5.0\Autodoc.CatalogAdmin.Domain.AssemblyInfo.cs
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Domain\obj\Release\net5.0\Autodoc.CatalogAdmin.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Domain\obj\Release\net5.0\Autodoc.CatalogAdmin.Domain.dll
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Domain\obj\Release\net5.0\ref\Autodoc.CatalogAdmin.Domain.dll
+C:\Users\aleksandr.rezenkov\Documents\Projects\autodoc.catalogadmin.api_new\Autodoc.CatalogAdmin.API\Autodoc.CatalogAdmin.Domain\obj\Release\net5.0\Autodoc.CatalogAdmin.Domain.pdb
